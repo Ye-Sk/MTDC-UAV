@@ -6,8 +6,8 @@
 <img src="https://github.com/Ye-Sk/MTDC-UAV/blob/master/cut.jpg"/>   
 </div> 
 
-**The resources in this repository are implemented in this paper :**  
-[___Fusing Global and Local Information Network for Tassel Detection in UAV Imagery___](https://github.com/Ye-Sk/MTDC-UAV/edit/master)
+**The resources in this repository are implemented in this paper:**  
+[___Fusing Global and Local Information Network for Tassel Detection in UAV Imagery___](https://github.com/Ye-Sk/MTDC-UAV)
 
 ### Dataset download
 ───── Download the MTDC-UAV dataset from: 
