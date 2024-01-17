@@ -18,7 +18,7 @@
 ~~~
 @article{MTDC-UAV dataset,  
   title={Fusing Global and Local Information Network for Tassel Detection in UAV Imagery},  
-  author={Jianxiong and Yu, Zhenghong}, 
+  author={Ye, Jianxiong and Yu, Zhenghong}, 
   year={2024}
 }
 ~~~
