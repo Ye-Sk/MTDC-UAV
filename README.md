@@ -7,7 +7,7 @@
 </div> 
 
 **The resources in this repository are implemented in this paper:**  
-[___Fusing Global and Local Information Network for Tassel Detection in UAV Imagery___](https://github.com/Ye-Sk/MTDC-UAV)
+[___Fusing Global and Local Information Network for Tassel Detection in UAV Imagery___](https://ieeexplore.ieee.org/abstract/document/10410654)
 
 ### Dataset download
 ───── Download the MTDC-UAV dataset from: 
@@ -16,9 +16,11 @@
 ## Citation
 #### If you find this work useful for your research, please cite this, Thank you!🤗
 ~~~
-@article{MTDC-UAV dataset,  
-  title={Fusing Global and Local Information Network for Tassel Detection in UAV Imagery},  
-  author={Ye, Jianxiong and Yu, Zhenghong}, 
-  year={2024}
+@ARTICLE{10410654,
+  author={Ye, Jianxiong and Yu, Zhenghong},
+  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, 
+  title={Fusing Global and Local Information Network for Tassel Detection in UAV Imagery}, 
+  year={2024},
+  pages={1-9}
 }
 ~~~
