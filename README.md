@@ -21,6 +21,7 @@
   journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, 
   title={Fusing Global and Local Information Network for Tassel Detection in UAV Imagery}, 
   year={2024},
-  pages={1-9}
+  volume={17},
+  pages={4100-4108}
 }
 ~~~
