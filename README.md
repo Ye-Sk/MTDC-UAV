@@ -22,6 +22,7 @@
   title={Fusing Global and Local Information Network for Tassel Detection in UAV Imagery}, 
   year={2024},
   volume={17},
-  pages={4100-4108}
+  pages={4100-4108},
+  doi={10.1109/jstars.2024.3356520}
 }
 ~~~
